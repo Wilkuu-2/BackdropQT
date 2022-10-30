@@ -1,6 +1,7 @@
 BackdropQT_build
 .cmake
 .cache
+compile_commands.json
 *.mp4
 *.jpg
 *.png
