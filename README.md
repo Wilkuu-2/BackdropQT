@@ -1,3 +1,5 @@
+[![CMake](https://github.com/Wilkuu-2/BackdropQT/actions/workflows/cmake.yml/badge.svg?branch=main)](https://github.com/Wilkuu-2/BackdropQT/actions/workflows/cmake.yml)
+
 # BackdropQT
 
 A "simple" animated background setter for linux. 
