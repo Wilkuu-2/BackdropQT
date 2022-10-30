@@ -18,7 +18,7 @@ set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
 
-find_package(Qt5 COMPONENTS Core Gui Widgets WebEngineWidgets WebEngine)
+find_package(Qt5 COMPONENTS Core Gui Widgets WebEngineWidgets WebEngine REQUIRED)
 
 # Include the source folders
 include_directories(
