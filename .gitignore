@@ -1,0 +1,6 @@
+BackdropQT_build
+.cmake
+.cache
+*.mp4
+*.jpg
+*.png
