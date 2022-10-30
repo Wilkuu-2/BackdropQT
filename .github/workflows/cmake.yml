@@ -20,7 +20,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Install Qt
-      uses: WillBrennan/yaqti@2021.07.29
+      uses: WillBrennan/yaqti
       with:
          version: '5.15.2'
          os: 'linux'
