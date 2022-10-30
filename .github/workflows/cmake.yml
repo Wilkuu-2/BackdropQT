@@ -22,7 +22,7 @@ jobs:
     - name: Install Qt
       run: | 
         sudo apt-get update -yq &&
-        sudo apt-get install -y libqt5webengine5 libqt5widgets5
+        sudo apt-get install -y qt5base-dev qt5webengine-dev
          
     - name: Configure CMake
       # Configure CMake in a 'build' subdirectory. `CMAKE_BUILD_TYPE` is only required if you are using a single-configuration generator such as make.
