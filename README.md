@@ -9,7 +9,7 @@ Written in C++ and built on the QT framework. (For the time being)
 
 ## Dependencies
 
-### Qt5: *NOTE: QT will be probably swapped out for something else*  
+### Qt5:
 * Qt5 Widgets 
 * Qt5 WebEngine
 
