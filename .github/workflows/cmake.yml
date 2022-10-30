@@ -22,7 +22,7 @@ jobs:
     - name: Install Qt
       uses: WillBrennan/yaqti@2021.07.29
       with:
-         version: '5.15.0'
+         version: '5.15.2'
          os: 'linux'
          platform: 'desktop'
          modules: 'qtwebengine'
